@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:39C5BB,50:8A2BE2,100:FF007F&text=Ima&fontColor=ffffff&fontSize=64&fontAlignY=40&animation=fadeIn" width="100%" alt="Ima" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:39C5BB,50:8A2BE2,100:FF007F&text=Ima&fontColor=ffffff&fontSize=64&fontAlignY=40&animation=fadeIn" width="100%" alt="IMA" />
 
 <!-- Pixel Miku: upload your file to assets/miku.gif, then remove the two comment marks around the image -->
 <!--
@@ -21,7 +21,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&height=50&color=0:39C5BB,100:8A2BE2&text=About%20me&fontColor=ffffff&fontSize=22&fontAlignY=50" width="260" alt="About me" />
 
-> **Hey, I'm Ima** 👋 I build Android apps and tweak custom ROMs for Pixel phones.
+> **Hey, I'm IMA** 👋 I build Android apps and tweak custom ROMs for Pixel phones.
 
 I like making things that feel premium without asking for anything back. Apps that are private, work offline and are made with care, because that's how I'd want them to be.
 
