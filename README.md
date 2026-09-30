@@ -1,56 +1,70 @@
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <h1>⚡ Jherson (Ima) Flores</h1>
+      <p><strong>Software Engineering Student & Android Systems Developer</strong></p>
+      <p>Engineering lightweight, native mobile software with an emphasis on <strong>local-first privacy</strong>, fluid UI architectures, and AOSP device tree bringups.</p>
+      <br/>
+      <img src="https://img.shields.io/badge/FOCUS-Android_Native-39C5BB?style=for-the-badge&logoColor=white" alt="Focus" />
+      <img src="https://img.shields.io/badge/CORE-AOSP_%2F_Linux-FF007F?style=for-the-badge&logoColor=white" alt="Core" />
+      <img src="https://img.shields.io/badge/MODE-Discreet_🐭-8B5CF6?style=for-the-badge&logoColor=white" alt="Mode" />
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <!-- Aesthetic Dev / Miku Card Banner -->
+      <img src="https://komarev.com/ghpvc/?username=JH3RSON&color=39C5BB&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+      <br/><br/>
+      <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/172.gif" width="90" alt="Pixel Companion" />
+      <br/>
+      <sub><code>System Status: Active</code></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Technical Arsenal
+
 <div align="center">
 
-# ⚡ IMA
-
-[![Role](https://img.shields.io/badge/ROLE-Software_Engineering_Student-E11D48?style=for-the-badge)](https://github.com/JH3RSON)
-[![Focus](https://img.shields.io/badge/DEV-Android_Native_%2F_AOSP-8B5CF6?style=for-the-badge)](https://github.com/JH3RSON)
-[![Philosophy](https://img.shields.io/badge/MODE-Local--First_%26_Privacy_🐭-EC4899?style=for-the-badge)](https://github.com/JH3RSON)
-
-<br/>
-
-**Building high-performance native Android applications, offline utilities, and system adaptations.**
-
-<br/>
-
-[![Kotlin](https://img.shields.io/badge/Kotlin-8A2BE2?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
-[![Python](https://img.shields.io/badge/Python-FF1493?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![AOSP](https://img.shields.io/badge/AOSP-06B6D4?style=for-the-badge&logo=android&logoColor=white)](https://source.android.com/)
-[![Linux](https://img.shields.io/badge/Linux-F59E0B?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
-[![Git](https://img.shields.io/badge/Git-EF4444?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-39C5BB?style=for-the-badge&logo=android-studio&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF007F?style=for-the-badge&logo=python&logoColor=white)
+![AOSP](https://img.shields.io/badge/AOSP-00E5FF?style=for-the-badge&logo=android&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-F59E0B?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-EF4444?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-### 🚀 Production Applications & Projects
+### 🚀 Production Applications & Systems
 
 > **[ALMA](https://github.com/JH3RSON/ALMA)**  
-> <sub>**Android / Kotlin** • Personal diary engine designed for absolute offline privacy, smooth transitions, and direct local document generation.</sub>  
+> <sub>**Android / Kotlin** • Personal journaling engine designed for offline privacy, fluid navigation, and direct document generation.</sub>  
 > <br/>
-> [![ALMA Downloads](https://img.shields.io/github/downloads/JH3RSON/ALMA/total?style=for-the-badge&color=E11D48&label=DOWNLOADS)](https://github.com/JH3RSON/ALMA/releases)
+> [![ALMA Downloads](https://img.shields.io/github/downloads/JH3RSON/ALMA/total?style=for-the-badge&color=39C5BB&label=DOWNLOADS)](https://github.com/JH3RSON/ALMA/releases)
 
 <br/>
 
 > **[ImaLoader-Android](https://github.com/JH3RSON/ImaLoader-Android)**  
-> <sub>**Android / Kotlin** • Dedicated native background media downloader and file management utility.</sub>  
+> <sub>**Android / Kotlin** • Native background media retrieval and storage management engine.</sub>  
 > <br/>
-> [![ImaLoader Downloads](https://img.shields.io/github/downloads/JH3RSON/ImaLoader-Android/total?style=for-the-badge&color=8B5CF6&label=DOWNLOADS)](https://github.com/JH3RSON/ImaLoader-Android/releases)
+> [![ImaLoader Downloads](https://img.shields.io/github/downloads/JH3RSON/ImaLoader-Android/total?style=for-the-badge&color=FF007F&label=DOWNLOADS)](https://github.com/JH3RSON/ImaLoader-Android/releases)
 
 <br/>
 
 > **Android Device Trees (Pixel Series)**  
-> <sub>**AOSP / Makefile / Shell** • Custom distribution bringup and board configuration targeting Pantah & Cheetah hardware platforms.</sub>  
+> <sub>**AOSP / Makefile / Shell** • Custom distribution bringup and board support package (BSP) targeting Pantah & Cheetah hardware platforms.</sub>  
 > <br/>
-> [![Status](https://img.shields.io/badge/PLATFORM-EvolutionX_%2F_LineageOS-06B6D4?style=for-the-badge)](https://github.com/JH3RSON)
+> [![Platform](https://img.shields.io/badge/TARGET-EvolutionX_%2F_LineageOS-8B5CF6?style=for-the-badge)](https://github.com/JH3RSON)
 
 ---
 
-### 📊 Performance & Repository Analytics
+### 📊 Performance Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JH3RSON&show_icons=true&theme=radical&hide_border=false&border_color=E11D48&border_radius=8" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JH3RSON&layout=compact&theme=radical&hide_border=false&border_color=8B5CF6&border_radius=8" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JH3RSON&show_icons=true&bg_color=0d1117&title_color=39C5BB&icon_color=FF007F&text_color=c9d1d9&border_color=39C5BB&border_radius=8" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JH3RSON&layout=compact&bg_color=0d1117&title_color=39C5BB&text_color=c9d1d9&border_color=FF007F&border_radius=8" width="48%" alt="Top Languages" />
 </div>
 
 ---
@@ -59,12 +73,12 @@
 
 <div align="center">
 
-<p>If any of these open-source tools provided value to your workflow, you can directly support independent development:</p>
+<p>If any of these open-source tools or device trees provided utility, consider supporting independent development:</p>
 
 <br/>
 
 <a href="https://paypal.me/Jherson2830" target="_blank">
-  <img src="https://img.shields.io/badge/DONATE_VIA_PAYPAL-00457C?style=for-the-badge&logo=paypal&logoColor=white" width="340" alt="PayPal Donation Button" />
+  <img src="https://img.shields.io/badge/DONATE_VIA_PAYPAL-39C5BB?style=for-the-badge&logo=paypal&logoColor=000000" width="340" alt="PayPal Donation Button" />
 </a>
 
 <br/><br/>
