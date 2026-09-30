@@ -1,25 +1,22 @@
 <div align="center">
 
-<!-- Header Visual & Alias -->
-<img src="https://capsule-render.vercel.app/api?type=shark&color=39C5BB&height=140&section=header&text=IMA&fontSize=50&fontColor=ffffff&fontAlignY=55" width="100%" alt="Header" />
+<!-- Banner estilizado con gradiente oficial de Miku (Cian a Magenta) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:39C5BB,100:FF007F&height=180&section=header&text=IMA&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Android%20Systems%20%26%20Native%20Engineer&descFontSize=16&descColor=ffffff&descAlignY=60" width="100%" alt="Header" />
 
+<!-- Insignias de métricas y estado -->
 <p align="center">
-  <strong>Android Systems & Native Mobile Developer</strong>
-  <br/>
-  <sub>Engineering local-first, privacy-driven applications & AOSP adaptations.</sub>
-</p>
-
-<!-- Profile Views Counter & Status Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JH3RSON&color=39C5BB&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=JH3RSON&color=39C5BB&style=for-the-badge&label=VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/badge/AOSP-EvolutionX_%2F_Lineage-FF007F?style=for-the-badge" alt="Target" />
-  <img src="https://img.shields.io/badge/STATUS-Building_🐭-8A2BE2?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/DISCREET-🐭-8A2BE2?style=for-the-badge" alt="Status" />
 </p>
 
-<!-- Miku Pixel Banner -->
-<a href="https://github.com/JH3RSON">
-  <img src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Response/Hatsune%20Miku.png" width="160" alt="Hatsune Miku" />
-</a>
+<!-- Miku Pixel Art (URL directa, optimizada y transparente) -->
+<img src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Response/HatsuneMiku.png" width="160" alt="Hatsune Miku" />
+
+<p>
+  <strong>Software Engineering Student & Android Systems Developer</strong><br/>
+  <sub>Building local-first, privacy-driven applications & optimizing low-level device trees.</sub>
+</p>
 
 </div>
 
@@ -43,7 +40,7 @@
 ### 🚀 Production Applications & Builds
 
 > **[ALMA](https://github.com/JH3RSON/ALMA)**  
-> <sub>**Android / Kotlin** • Personal journaling engine designed for offline privacy, fluid navigation, and local document generation.</sub>  
+> <sub>**Android / Kotlin** • Personal journaling engine designed for absolute offline privacy, fluid navigation, and local document generation.</sub>  
 > <br/>
 > [![ALMA Downloads](https://img.shields.io/github/downloads/JH3RSON/ALMA/total?style=for-the-badge&color=39C5BB&label=DOWNLOADS)](https://github.com/JH3RSON/ALMA/releases)
 
@@ -66,8 +63,9 @@
 ### 📊 Performance Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JH3RSON&show_icons=true&bg_color=0d1117&title_color=39C5BB&icon_color=FF007F&text_color=c9d1d9&border_color=39C5BB&border_radius=8" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JH3RSON&layout=compact&bg_color=0d1117&title_color=39C5BB&text_color=c9d1d9&border_color=FF007F&border_radius=8" width="48%" alt="Top Languages" />
+  <!-- Tarjetas con fondo 100% transparente para que no choquen con tu GitHub en blanco -->
+  <img src="https://github-readme-stats.vercel.app/api?username=JH3RSON&show_icons=true&bg_color=00000000&title_color=39C5BB&icon_color=FF007F&text_color=586069&border_color=39C5BB&border_radius=10" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JH3RSON&layout=compact&bg_color=00000000&title_color=39C5BB&text_color=586069&border_color=FF007F&border_radius=10" width="48%" alt="Top Languages" />
 </div>
 
 ---
@@ -81,7 +79,7 @@
 <br/>
 
 <a href="https://paypal.me/Jherson2830" target="_blank">
-  <img src="https://img.shields.io/badge/DONATE_VIA_PAYPAL-39C5BB?style=for-the-badge&logo=paypal&logoColor=000000" width="340" alt="PayPal Donation Button" />
+  <img src="https://img.shields.io/badge/DONATE_VIA_PAYPAL-39C5BB?style=for-the-badge&logo=paypal&logoColor=000000" width="320" alt="PayPal Donation Button" />
 </a>
 
 <br/><br/>
