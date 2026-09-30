@@ -1,28 +1,31 @@
-<table>
-  <tr>
-    <td width="65%" valign="top">
-      <h1>⚡ Jherson (Ima) Flores</h1>
-      <p><strong>Software Engineering Student & Android Systems Developer</strong></p>
-      <p>Engineering lightweight, native mobile software with an emphasis on <strong>local-first privacy</strong>, fluid UI architectures, and AOSP device tree bringups.</p>
-      <br/>
-      <img src="https://img.shields.io/badge/FOCUS-Android_Native-39C5BB?style=for-the-badge&logoColor=white" alt="Focus" />
-      <img src="https://img.shields.io/badge/CORE-AOSP_%2F_Linux-FF007F?style=for-the-badge&logoColor=white" alt="Core" />
-      <img src="https://img.shields.io/badge/MODE-Discreet_🐭-8B5CF6?style=for-the-badge&logoColor=white" alt="Mode" />
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <!-- Aesthetic Dev / Miku Card Banner -->
-      <img src="https://komarev.com/ghpvc/?username=JH3RSON&color=39C5BB&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-      <br/><br/>
-      <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/172.gif" width="90" alt="Pixel Companion" />
-      <br/>
-      <sub><code>System Status: Active</code></sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<!-- Header Visual & Alias -->
+<img src="https://capsule-render.vercel.app/api?type=shark&color=39C5BB&height=140&section=header&text=IMA&fontSize=50&fontColor=ffffff&fontAlignY=55" width="100%" alt="Header" />
+
+<p align="center">
+  <strong>Android Systems & Native Mobile Developer</strong>
+  <br/>
+  <sub>Engineering local-first, privacy-driven applications & AOSP adaptations.</sub>
+</p>
+
+<!-- Profile Views Counter & Status Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JH3RSON&color=39C5BB&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/AOSP-EvolutionX_%2F_Lineage-FF007F?style=for-the-badge" alt="Target" />
+  <img src="https://img.shields.io/badge/STATUS-Building_🐭-8A2BE2?style=for-the-badge" alt="Status" />
+</p>
+
+<!-- Miku Pixel Banner -->
+<a href="https://github.com/JH3RSON">
+  <img src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Response/Hatsune%20Miku.png" width="160" alt="Hatsune Miku" />
+</a>
+
+</div>
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Technical Stack
 
 <div align="center">
 
@@ -37,10 +40,10 @@
 
 ---
 
-### 🚀 Production Applications & Systems
+### 🚀 Production Applications & Builds
 
 > **[ALMA](https://github.com/JH3RSON/ALMA)**  
-> <sub>**Android / Kotlin** • Personal journaling engine designed for offline privacy, fluid navigation, and direct document generation.</sub>  
+> <sub>**Android / Kotlin** • Personal journaling engine designed for offline privacy, fluid navigation, and local document generation.</sub>  
 > <br/>
 > [![ALMA Downloads](https://img.shields.io/github/downloads/JH3RSON/ALMA/total?style=for-the-badge&color=39C5BB&label=DOWNLOADS)](https://github.com/JH3RSON/ALMA/releases)
 
@@ -56,7 +59,7 @@
 > **Android Device Trees (Pixel Series)**  
 > <sub>**AOSP / Makefile / Shell** • Custom distribution bringup and board support package (BSP) targeting Pantah & Cheetah hardware platforms.</sub>  
 > <br/>
-> [![Platform](https://img.shields.io/badge/TARGET-EvolutionX_%2F_LineageOS-8B5CF6?style=for-the-badge)](https://github.com/JH3RSON)
+> [![Platform](https://img.shields.io/badge/TARGET-EvolutionX_%2F_LineageOS-8A2BE2?style=for-the-badge)](https://github.com/JH3RSON)
 
 ---
 
