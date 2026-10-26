@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Ima - android apps and custom ROMs for Pixel" width="100%">
+<img src="banner.svg" alt="Ima - android apps and custom ROMs for Pixel" width="100%">
 
 </div>
 
@@ -10,7 +10,7 @@ Hey, I'm Ima 👋 I make Android apps and mess around with custom ROMs for Pixel
 
 I like building things that feel nice to use and don't ask for anything back. Private, offline, made with care, the way I'd want an app to be. If one of them helped you even a little, that already made my day. A ⭐ on a repo goes a long way too.
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
 ## $ ls projects/
 
@@ -39,7 +39,7 @@ Download media in the background and keep your storage under control, without th
 </tr>
 </table>
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
 ## $ ls roms/
 
@@ -48,7 +48,7 @@ Custom ROM support for Google Pixel. Device trees for **Pantah** and **Cheetah**
 - [android_device_google_pantah_ima_evox](https://github.com/JH3RSON/android_device_google_pantah_ima_evox)
 - [android_device_google_cheetah_ima_evolutions](https://github.com/JH3RSON/android_device_google_cheetah_ima_evolutions)
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
 ## $ cat stack.txt
 
@@ -61,7 +61,7 @@ Custom ROM support for Google Pixel. Device trees for **Pantah** and **Cheetah**
 <img src="https://img.shields.io/badge/Git-FF007F?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" alt="Git">
 </p>
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
 ## $ git log --stat
 
@@ -70,20 +70,20 @@ Custom ROM support for Google Pixel. Device trees for **Pantah** and **Cheetah**
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JH3RSON&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF007F&text_color=c9d1d9" alt="Most used languages">
 </p>
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
 ## $ ./contact.sh
 
 Something broke, or something feels off? Write to me on Telegram, I read everything. And if my apps made your day a little easier, you can buy me a coffee. It helps me keep going, but it's never expected.
 
 <p align="center">
-<a href="https://t.me/IMA_2830"><img src="assets/telegram-button.svg" alt="Found a bug? @IMA_2830 on Telegram" width="380"></a>
-<a href="https://ko-fi.com/ima28"><img src="assets/kofi-button.svg" alt="Buy me a coffee on Ko-fi" width="380"></a>
+<a href="https://t.me/IMA_2830"><img src="telegram-button.svg" alt="Found a bug? @IMA_2830 on Telegram" width="380"></a>
+<a href="https://ko-fi.com/ima28"><img src="kofi-button.svg" alt="Buy me a coffee on Ko-fi" width="380"></a>
 </p>
 
 <div align="center">
 
-<img src="assets/footer.svg" alt="Made with love by Ima" width="100%">
+<img src="footer.svg" alt="Made with love by Ima" width="100%">
 
 <sub>🐭</sub>
 
