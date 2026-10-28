@@ -31,7 +31,7 @@ An offline personal journal for Android. Your thoughts stay on your device, with
 
 Download media in the background and keep your storage under control, without the hassle.
 
-<sub>v3.0 is on its way.</sub>
+<sub>v3.0 is here!.</sub>
 
 <a href="https://github.com/JH3RSON/ImaLoader-Android/releases"><img src="https://img.shields.io/github/downloads/JH3RSON/ImaLoader-Android/total?style=for-the-badge&label=downloads&labelColor=0d1117&color=FF007F" alt="ImaLoader downloads"></a>
 
